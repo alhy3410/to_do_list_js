@@ -1,0 +1,15 @@
+#show-complete{
+  display: none;
+}
+#show-incomplete {
+  display: none;
+}
+
+.task-imcomplete {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.task-incomplete:hover {
+  text-decoration: underline;
+}
